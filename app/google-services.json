@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "178335696811",
+    "firebase_url": "https://ocr-bcr.firebaseio.com",
+    "project_id": "ocr-bcr",
+    "storage_bucket": "ocr-bcr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178335696811:android:060354b7cce268d002f4ee",
+        "android_client_info": {
+          "package_name": "com.political.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178335696811-cln2k8mqbu4fcse2njqcdfgv9t88n6mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqrikrA8NDz61FIDZGZJPx9nOw_sNZuYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178335696811-cln2k8mqbu4fcse2njqcdfgv9t88n6mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
